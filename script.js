@@ -16,7 +16,7 @@
         },
         {
           name: "YouTube",
-          url: "https",
+          url: "https://www.youtube.com/@UmkmWadaslintang",
           icon: "https://cdn.simpleicons.org/youtube/FF0000",
           label: "Buka YouTube Karya Lokal"
         }
