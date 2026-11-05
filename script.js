@@ -65,7 +65,7 @@
       },
       {
         title: "Lokasi Workshop",
-        url: "https://maps.google.com/",
+        url: "https://maps.app.goo.gl/2dF6XV1sXy9hicbh7",
         category: "kontak",
         icon: "https://cdn.simpleicons.org/googlemaps/4285F4",
         featured: false,
