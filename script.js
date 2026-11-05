@@ -33,7 +33,7 @@
       },
       {
         title: "Katalog Kerajinan Kayu",
-        url: "https",
+        url: "katalog.html",
         category: "project",
         icon: "https://cdn-icons-png.flaticon.com/512/2917/2917995.png",
         featured: true,
