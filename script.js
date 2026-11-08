@@ -15,7 +15,7 @@ const socialLinks = [
     },
     {
         name: "YouTube",
-        url: "https://www.youtube.com/@karyalokal.wadaslintang",
+        url: "https://www.youtube.com/@UmkmWadaslintang",
         icon: "https://cdn.simpleicons.org/youtube/FF0000",
         label: "Buka YouTube Karya Lokal"
     }
